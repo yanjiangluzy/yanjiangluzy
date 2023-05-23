@@ -1,4 +1,5 @@
 ### Hi there 👋
+干啥啥不行，开摆第一名
 
 <!--
 **yanjiangluzy/yanjiangluzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
