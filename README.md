@@ -1,8 +1,6 @@
 ### Hi there 👋
 干啥啥不行，开摆第一名
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanjiangluzy&show_icons=true&theme=dracula) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanjiangluzy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 
 <!--
